@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Rosheen
  */
-public class Nslab3 {
+public class Vignere_Cypher {
 
     /**
      * @param args the command line arguments
@@ -18,8 +18,7 @@ public class Nslab3 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        Vigenère obj = new Vigenère();
-        System.out.println("Hello user");
+        System.out.println("Hello user!! Welcome to vigenere cypher!!!");
         System.out.println("Enter text which you want to encrypt or decrypt");
         
         // Take input from user
